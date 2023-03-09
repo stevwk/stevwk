@@ -1,3 +1,5 @@
+'''
+
  ________  _________  _______   ___      ___ _______   ________           ________   ________  ___  ___      ___    ___ _______   ________      
 |\   ____\|\___   ___\\  ___ \ |\  \    /  /|\  ___ \ |\   ___  \        |\   ___  \|\   ____\|\  \|\  \    |\  \  /  /|\  ___ \ |\   ___  \    
 \ \  \___|\|___ \  \_\ \   __/|\ \  \  /  / | \   __/|\ \  \\ \  \       \ \  \\ \  \ \  \___|\ \  \\\  \   \ \  \/  / | \   __/|\ \  \\ \  \   
@@ -6,7 +8,9 @@
     ____\_\  \   \ \__\ \ \_______\ \__/ /     \ \_______\ \__\\ \__\       \ \__\\ \__\ \_______\ \_______\__/  / /      \ \_______\ \__\\ \__\
    |\_________\   \|__|  \|_______|\|__|/       \|_______|\|__| \|__|        \|__| \|__|\|_______|\|_______|\___/ /        \|_______|\|__| \|__|
    \|_________|                                                                                            \|___|/                              
-                                                                                                                        
+                                                                                                                                                
+                                    
+'''
                                                                                                                         
 Greetings, and welcome to my Github profile! Thank you so much for taking the time to visit my page and learn more about me. As a Computer Science major at the Georgia Institute of Technology, I have garnered a fascination with the field of artificial intelligence and being able to utilize software to create works of art. Additionally, I have threads focused upon devices and media, which has helped me approach problem-solving with a more technical and hands on approach.
 
