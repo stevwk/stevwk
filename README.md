@@ -16,5 +16,6 @@ I began programming recreationally in 2021, and since then, I have gained an eve
 Please take the time to peruse my profile and personal projects, and get a sense of the work I strive to accomplish and am passionate about. With more projects to complete, there will always be something new to look at in the future! Thank you once again for your time, and have a wonderful rest of your day!
 
 
-Best,
+
+
 Steven
